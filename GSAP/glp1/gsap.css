@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.page1{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(193, 255, 100);
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+
+}
